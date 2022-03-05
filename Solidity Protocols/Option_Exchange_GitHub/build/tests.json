@@ -1,0 +1,18 @@
+{
+  "contracts": {
+    "ERC20": "b603b3936da7c116242aa141dee04cb1a372efea",
+    "OptionExchange": "b5e77f36e769a655b044022019dab8eb4991b118",
+    "OptionExchangeFactory": "eeb014732c4c7ecbb5cc01723301044db6a2a8b0",
+    "SafeMath": "3b4158955f564edb18bd7a8ffdb49859c904f0b7"
+  },
+  "tests": {
+    "tests/test_option_exchange.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": ".",
+      "sha1": "b9ad23bc8b08e675c3aa559d2635d853c8e29ff3",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
